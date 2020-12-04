@@ -1,0 +1,421 @@
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.exe
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.deps.json
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.runtimeconfig.json
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.runtimeconfig.dev.json
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.pdb
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.Infarstructure.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.pdb
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.Infarstructure.pdb
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.csprojAssemblyReference.cache
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.AssemblyInfoInputs.cache
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.AssemblyInfo.cs
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.csproj.CoreCompileInputs.cache
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.RazorTargetAssemblyInfo.cache
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.csproj.CopyComplete
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\staticwebassets\MISA.CukCuk.Web.StaticWebAssets.Manifest.cache
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\staticwebassets\MISA.CukCuk.Web.StaticWebAssets.xml
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.dll
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.pdb
+C:\Users\hbngoc\Documents\NVManh\Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.genruntimeconfig.cache
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.exe
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.deps.json
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.runtimeconfig.json
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.runtimeconfig.dev.json
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.pdb
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.Infarstructure.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.pdb
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.Infarstructure.pdb
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.csprojAssemblyReference.cache
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.AssemblyInfoInputs.cache
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.AssemblyInfo.cs
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.csproj.CoreCompileInputs.cache
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.RazorTargetAssemblyInfo.cache
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.csproj.CopyComplete
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\staticwebassets\MISA.CukCuk.Web.StaticWebAssets.Manifest.cache
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\staticwebassets\MISA.CukCuk.Web.StaticWebAssets.xml
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.dll
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.pdb
+C:\Users\hbngoc\Documents\ngochtb\MISA.CukCuk\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.genruntimeconfig.cache
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\appsettings.json
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.exe
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.deps.json
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.runtimeconfig.json
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.runtimeconfig.dev.json
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.pdb
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.Infarstructure.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.pdb
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.Infarstructure.pdb
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.csprojAssemblyReference.cache
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.AssemblyInfoInputs.cache
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.AssemblyInfo.cs
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.csproj.CoreCompileInputs.cache
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.RazorTargetAssemblyInfo.cache
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.csproj.CopyComplete
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\staticwebassets\MISA.CukCuk.Web.StaticWebAssets.Manifest.cache
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\staticwebassets\MISA.CukCuk.Web.StaticWebAssets.xml
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.dll
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.pdb
+D:\MISAFRESHER\misa training\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.genruntimeconfig.cache
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.pdb
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.exe
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.deps.json
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.runtimeconfig.json
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.runtimeconfig.dev.json
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.pdb
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.Infarstructure.dll
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.pdb
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.Infarstructure.pdb
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.csprojAssemblyReference.cache
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.AssemblyInfoInputs.cache
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.AssemblyInfo.cs
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.csproj.CoreCompileInputs.cache
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.RazorTargetAssemblyInfo.cache
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.csproj.CopyComplete
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\staticwebassets\MISA.CukCuk.Web.StaticWebAssets.Manifest.cache
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\staticwebassets\MISA.CukCuk.Web.StaticWebAssets.xml
+C:\Users\hbngoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.genruntimeconfig.cache
+C:\Users\HBNgoc\Documents\Test3\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Z.Dapper.Plus.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\appsettings.json
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.exe
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.deps.json
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.runtimeconfig.json
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.runtimeconfig.dev.json
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.pdb
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Z.Dapper.Plus.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.Infarstructure.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.pdb
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.Infarstructure.pdb
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.csprojAssemblyReference.cache
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.AssemblyInfoInputs.cache
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.AssemblyInfo.cs
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.csproj.CoreCompileInputs.cache
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.RazorTargetAssemblyInfo.cache
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.csproj.CopyComplete
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\staticwebassets\MISA.CukCuk.Web.StaticWebAssets.Manifest.cache
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\staticwebassets\MISA.CukCuk.Web.StaticWebAssets.xml
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.dll
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.pdb
+D:\MISAFRESHER\misa training\Test 4\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.genruntimeconfig.cache
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.exe
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.deps.json
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.runtimeconfig.json
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.runtimeconfig.dev.json
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.pdb
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Z.Dapper.Plus.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.Infarstructure.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.pdb
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.Infarstructure.pdb
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.csprojAssemblyReference.cache
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.AssemblyInfoInputs.cache
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.AssemblyInfo.cs
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.csproj.CoreCompileInputs.cache
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.RazorTargetAssemblyInfo.cache
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.csproj.CopyComplete
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\staticwebassets\MISA.CukCuk.Web.StaticWebAssets.Manifest.cache
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\staticwebassets\MISA.CukCuk.Web.StaticWebAssets.xml
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.dll
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.pdb
+C:\Users\HBNgoc\Documents\Test\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.genruntimeconfig.cache
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.exe
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.deps.json
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.runtimeconfig.json
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.runtimeconfig.dev.json
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.pdb
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Z.Dapper.Plus.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.Infarstructure.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.pdb
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.Infarstructure.pdb
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.csprojAssemblyReference.cache
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.AssemblyInfoInputs.cache
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.AssemblyInfo.cs
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.csproj.CoreCompileInputs.cache
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\staticwebassets\MISA.CukCuk.Web.StaticWebAssets.Manifest.cache
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\staticwebassets\MISA.CukCuk.Web.StaticWebAssets.xml
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\MISA.CukCuk.Web.styles.css
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.RazorTargetAssemblyInfo.cache
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.csproj.CopyComplete
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.dll
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.pdb
+C:\Users\tqhuy\source\repos\Ngoc288\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.genruntimeconfig.cache
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.exe
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.deps.json
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.runtimeconfig.json
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.runtimeconfig.dev.json
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.CukCuk.Web.pdb
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\Z.Dapper.Plus.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.Infarstructure.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.pdb
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\bin\Debug\netcoreapp3.1\MISA.Infarstructure.pdb
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.csprojAssemblyReference.cache
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.AssemblyInfoInputs.cache
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.AssemblyInfo.cs
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.csproj.CoreCompileInputs.cache
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\staticwebassets\MISA.CukCuk.Web.StaticWebAssets.Manifest.cache
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\staticwebassets\MISA.CukCuk.Web.StaticWebAssets.xml
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\MISA.CukCuk.Web.styles.css
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.RazorTargetAssemblyInfo.cache
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.csproj.CopyComplete
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.dll
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.pdb
+C:\Users\hbngoc\Documents\Test3\MISA.CukCuk\MISA.CukCuk.Web\obj\Debug\netcoreapp3.1\MISA.CukCuk.Web.genruntimeconfig.cache

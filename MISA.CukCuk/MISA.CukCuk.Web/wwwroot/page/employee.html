@@ -1,0 +1,294 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Quản lý lao động</title>
+    <link href="/jquery-ui-1.12.1.custom/jquery-ui.css" rel="stylesheet" />
+    <link href="/css/common/main.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="main">
+        <!--Navbar-->
+        <div class="layout-left">
+            <div class="logo">
+                <img class="logo-icon" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbG5zOnN2Z2pzPSJodHRwOi8vc3ZnanMuY29tL3N2Z2pzIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDM2MC40OSAzNjAuNDkiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDUxMiA1MTIiIHhtbDpzcGFjZT0icHJlc2VydmUiIGNsYXNzPSIiPjxnPgo8ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgoJPGc+CgkJPGc+CgkJCTxwYXRoIGQ9Ik05Ni42NTMsMEgxMy4wNjFDNy4yOSwwLDIuNjEyLDQuNjc4LDIuNjEyLDEwLjQ0OXY4My41OTJjMCw1Ljc3MSw0LjY3OCwxMC40NDksMTAuNDQ5LDEwLjQ0OWg4My41OTIgICAgIGM1Ljc3MSwwLDEwLjQ0OS00LjY3OCwxMC40NDktMTAuNDQ5VjEwLjQ0OUMxMDcuMTAyLDQuNjc4LDEwMi40MjQsMCw5Ni42NTMsMHoiIGZpbGw9IiMwMDAwMDAiIGRhdGEtb3JpZ2luYWw9IiMwMDAwMDAiIHN0eWxlPSIiIGNsYXNzPSIiPjwvcGF0aD4KCQkJPHBhdGggZD0iTTIyMi4wNDEsMGgtODMuNTkyQzEzMi42NzgsMCwxMjgsNC42NzgsMTI4LDEwLjQ0OXY4My41OTJjMCw1Ljc3MSw0LjY3OCwxMC40NDksMTAuNDQ5LDEwLjQ0OWg4My41OTIgICAgIGM1Ljc3MSwwLDEwLjQ0OS00LjY3OCwxMC40NDktMTAuNDQ5VjEwLjQ0OUMyMzIuNDksNC42NzgsMjI3LjgxMiwwLDIyMi4wNDEsMHoiIGZpbGw9IiMwMDAwMDAiIGRhdGEtb3JpZ2luYWw9IiMwMDAwMDAiIHN0eWxlPSIiIGNsYXNzPSIiPjwvcGF0aD4KCQkJPHBhdGggZD0iTTk2LjY1MywxMjUuMzg4SDEzLjA2MWMtNS43NzEsMC0xMC40NDksNC42NzgtMTAuNDQ5LDEwLjQ0OXY4My41OTJjMCw1Ljc3MSw0LjY3OCwxMC40NDksMTAuNDQ5LDEwLjQ0OWg4My41OTIgICAgIGM1Ljc3MSwwLDEwLjQ0OS00LjY3OCwxMC40NDktMTAuNDQ5di04My41OTJDMTA3LjEwMiwxMzAuMDY2LDEwMi40MjQsMTI1LjM4OCw5Ni42NTMsMTI1LjM4OHoiIGZpbGw9IiMwMDAwMDAiIGRhdGEtb3JpZ2luYWw9IiMwMDAwMDAiIHN0eWxlPSIiIGNsYXNzPSIiPjwvcGF0aD4KCQkJPHBhdGggZD0iTTIyMi4wNDEsMTI1LjM4OGgtODMuNTkyYy01Ljc3MSwwLTEwLjQ0OSw0LjY3OC0xMC40NDksMTAuNDQ5djgzLjU5MmMwLDUuNzcxLDQuNjc4LDEwLjQ0OSwxMC40NDksMTAuNDQ5aDgzLjU5MiAgICAgYzUuNzcxLDAsMTAuNDQ5LTQuNjc4LDEwLjQ0OS0xMC40NDl2LTgzLjU5MkMyMzIuNDksMTMwLjA2NiwyMjcuODEyLDEyNS4zODgsMjIyLjA0MSwxMjUuMzg4eiIgZmlsbD0iIzAwMDAwMCIgZGF0YS1vcmlnaW5hbD0iIzAwMDAwMCIgc3R5bGU9IiIgY2xhc3M9IiI+PC9wYXRoPgoJCQk8cGF0aCBkPSJNMzQ3LjQyOSwwaC04My41OTJjLTUuNzcxLDAtMTAuNDQ5LDQuNjc4LTEwLjQ0OSwxMC40NDl2ODMuNTkyYzAsNS43NzEsNC42NzgsMTAuNDQ5LDEwLjQ0OSwxMC40NDloODMuNTkyICAgICBjNS43NzEsMCwxMC40NDktNC42NzgsMTAuNDQ5LTEwLjQ0OVYxMC40NDlDMzU3Ljg3OCw0LjY3OCwzNTMuMTk5LDAsMzQ3LjQyOSwweiIgZmlsbD0iIzAwMDAwMCIgZGF0YS1vcmlnaW5hbD0iIzAwMDAwMCIgc3R5bGU9IiIgY2xhc3M9IiI+PC9wYXRoPgoJCQk8cGF0aCBkPSJNMzQ3LjQyOSwxMjUuMzg4aC04My41OTJjLTUuNzcxLDAtMTAuNDQ5LDQuNjc4LTEwLjQ0OSwxMC40NDl2ODMuNTkyYzAsNS43NzEsNC42NzgsMTAuNDQ5LDEwLjQ0OSwxMC40NDloODMuNTkyICAgICBjNS43NzEsMCwxMC40NDktNC42NzgsMTAuNDQ5LTEwLjQ0OXYtODMuNTkyQzM1Ny44NzgsMTMwLjA2NiwzNTMuMTk5LDEyNS4zODgsMzQ3LjQyOSwxMjUuMzg4eiIgZmlsbD0iIzAwMDAwMCIgZGF0YS1vcmlnaW5hbD0iIzAwMDAwMCIgc3R5bGU9IiIgY2xhc3M9IiI+PC9wYXRoPgoJCQk8cGF0aCBkPSJNOTYuNjUzLDI1NkgxMy4wNjFjLTUuNzcxLDAtMTAuNDQ5LDQuNjc4LTEwLjQ0OSwxMC40NDl2ODMuNTkyYzAsNS43NzEsNC42NzgsMTAuNDQ5LDEwLjQ0OSwxMC40NDloODMuNTkyICAgICBjNS43NzEsMCwxMC40NDktNC42NzgsMTAuNDQ5LTEwLjQ0OXYtODMuNTkyQzEwNy4xMDIsMjYwLjY3OCwxMDIuNDI0LDI1Niw5Ni42NTMsMjU2eiIgZmlsbD0iIzAwMDAwMCIgZGF0YS1vcmlnaW5hbD0iIzAwMDAwMCIgc3R5bGU9IiIgY2xhc3M9IiI+PC9wYXRoPgoJCQk8cGF0aCBkPSJNMjIyLjA0MSwyNTZoLTgzLjU5MmMtNS43NzEsMC0xMC40NDksNC42NzgtMTAuNDQ5LDEwLjQ0OXY4My41OTJjMCw1Ljc3MSw0LjY3OCwxMC40NDksMTAuNDQ5LDEwLjQ0OWg4My41OTIgICAgIGM1Ljc3MSwwLDEwLjQ0OS00LjY3OCwxMC40NDktMTAuNDQ5di04My41OTJDMjMyLjQ5LDI2MC42NzgsMjI3LjgxMiwyNTYsMjIyLjA0MSwyNTZ6IiBmaWxsPSIjMDAwMDAwIiBkYXRhLW9yaWdpbmFsPSIjMDAwMDAwIiBzdHlsZT0iIiBjbGFzcz0iIj48L3BhdGg+CgkJCTxwYXRoIGQ9Ik0zNDcuNDI5LDI1NmgtODMuNTkyYy01Ljc3MSwwLTEwLjQ0OSw0LjY3OC0xMC40NDksMTAuNDQ5djgzLjU5MmMwLDUuNzcxLDQuNjc4LDEwLjQ0OSwxMC40NDksMTAuNDQ5aDgzLjU5MiAgICAgYzUuNzcxLDAsMTAuNDQ5LTQuNjc4LDEwLjQ0OS0xMC40NDl2LTgzLjU5MkMzNTcuODc4LDI2MC42NzgsMzUzLjE5OSwyNTYsMzQ3LjQyOSwyNTZ6IiBmaWxsPSIjMDAwMDAwIiBkYXRhLW9yaWdpbmFsPSIjMDAwMDAwIiBzdHlsZT0iIiBjbGFzcz0iIj48L3BhdGg+CgkJPC9nPgoJPC9nPgo8L2c+CjxnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjwvZz4KPGcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPC9nPgo8ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8L2c+CjxnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjwvZz4KPGcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPC9nPgo8ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8L2c+CjxnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjwvZz4KPGcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPC9nPgo8ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8L2c+CjxnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjwvZz4KPGcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPC9nPgo8ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8L2c+CjxnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjwvZz4KPGcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPC9nPgo8ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8L2c+CjwvZz48L3N2Zz4=" />
+
+                <img class="logo-img" src="../content/image/cukcuk-logo.png" />
+            </div>
+            <div class="navbar">
+                <div class="menu menu-choose">
+                    <div class="menu-icon">
+                        <i class="far fa-copy"></i>
+                    </div>
+                    <div class="menu-text">Hồ sơ điện tử</div>
+                </div>
+                <div class="menu menu-choose">
+                    <div class="menu-icon">
+                        <i class="far fa-chart-bar"></i>
+                    </div>
+                    <div class="menu-text">Tổng quan</div>
+                </div>
+                <div class="menu menu-choose">
+                    <div class="menu-icon">
+                        <i class="far fa-chart-bar"></i>
+                    </div>
+                    <div class="menu-text">Báo cáo</div>
+                </div>
+                <a href="employee.html">
+                    <div class="menu menu-choose">
+
+                        <div class="menu-icon">
+                            <i class="far fa-user"></i>
+                        </div>
+                        <div class="menu-text">Danh mục nhân viên</div>
+
+                    </div>
+                </a>
+                <a>
+                    <div class="menu menu-choose">
+
+                        <div class="menu-icon">
+                            <i class="far fa-copy"></i>
+                        </div>
+                        <div class="menu-text">Nhà hàng</div>
+
+                    </div>
+                </a>
+                <div class="menu menu-choose">
+                    <div class="menu-icon">
+                        <i class="fas fa-sliders-h"></i>
+                    </div>
+                    <div class="menu-text">Thiết lập hệ thống</div>
+                </div>
+            </div>
+        </div>
+        <!--Header, content-->
+        <div class="layout-right">
+
+            <div class="header">
+                <div class="header-left">
+                    <span>Nhà hàng biển Đông <i class="fas fa-chevron-down"></i></span>
+                </div>
+                <div class="header-right">
+                    <div class="account"></div>
+                    <span>Hoang Bich Ngoc</span>
+                    <i class="fas fa-ellipsis-h"></i>
+                </div>
+            </div>
+            <div class="content">
+                <div class="action">
+                    <span>Quản lý nhân viên</span>
+                    <div class="button">
+                        <!-- Button thêm mới-->
+                        <div class="button-right button-add">
+                            <button id="btnAdd">
+                                <i class="fas fa-users"></i>
+                                <span>Thêm nhân viên</span>
+                            </button>
+                        </div>
+                        <div class="button-right button-right-bottom">
+                            <!--  Button refresh-->
+                            <button id="btnRef" class="button-ref"><i class="fas fa-sync-alt"></i></button>
+                            <!--  Button delete-->
+                            <button id="btnDel" class="button-del button-ref"><i class="fas fa-trash"></i></button>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="search">
+                    <div class="input-search">
+                        <i class="fas fa-search"></i>
+                        <input placeholder="Tìm kiếm theo mã nhân viên, họ tên" type="text" class="style-input search-input" />
+                    </div>
+                    <div class="choose-department">
+                        <select id="cbxDepartment" fieldName="DepartmentName" fieldValue="DepartmentId" api="/api/v1/departments" class="style-input style-select build-select search-select search-select-department"></select>
+
+                    </div>
+                    <div class="choose-department width-choose">
+                        <select id="cbxPossition" fieldName="PossitionName" fieldValue="PossitionId" api="/api/v1/possitions" class="style-input style-select build-select search-select search-select-possition"></select>
+                    </div>
+                    <div class="button-action">
+                        <div class="action-download"></div>
+                    </div>
+                </div>
+                <!-- Table hiển thị dữ liệu-->
+                <div class="content-table">
+                    <table cellspacing="0" width="100%">
+                        <thead>
+                            <tr>
+
+                                <th fieldName="EmployeeCode">Mã nhân viên</th>
+                                <th fieldName="FullName">Họ và tên</th>
+                                <th fieldName="GenderName">Giới tính</th>
+                                <th fieldName="DateOfBirth" formatType="ddmmyyyy">Ngày sinh</th>
+                                <th fieldName="PhoneNumber">Điện thoại</th>
+                                <th fieldName="Email">Email</th>
+                                <th fieldName="PossitionName">Chức vụ</th>
+                                <th fieldName="DepartmentName">Phòng ban</th>
+                                <th fieldName="Salary" formatType="Money">Mức lương cơ bản</th>
+                                <th fieldName="WorkStatusName">Tình trạng công việc</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                    </table>
+                </div>
+                <!--  Phân trang-->
+                <div class="paging-bar">
+                    <div class="paging-record-info">
+                        <b></b> Nhân viên
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--   Dialog thêm mới/chỉnh sửa-->
+    <div id="dialog-form" title="Quản lý nhân viên">
+        <div class="infor">
+
+            <div class="display-flex">
+                <div class="avatar-left">
+                    <div class="input-avt">
+                        <img src="/content/image/default-avatar-profile-image-vector-social-media-user-icon-potrait-182347582.jpg" />
+                    </div>
+                    <div class="infor-avt">Vui lòng chọn ảnh có định dạng <b>.jpeg, .jpg, .png, .gif</b></div>
+                </div>
+                <div class="half-right">
+                    <div class="style-fontweight-bold">A. THÔNG TIN CHUNG:<hr class="styleHr" /></div>
+                    <div class="display-flex">
+                        <div class="item item-birth">
+                            <p>Mã nhân viên (<span style="color:red;">*</span>)</p>
+                            <input fieldName="EmployeeCode" class="style-input input-required" />
+                        </div>
+                        <div class="item item-birth">
+                            <p>Họ và tên (<span style="color:red;">*</span>)</p>
+                            <input type="text" fieldName="FullName" class="style-input input-required" />
+                        </div>
+                    </div>
+                    <div class="display-flex">
+                        <div class="item item-birth">
+                            <p>Ngày sinh</p>
+                            <input fieldName="DateOfBirth" class="style-input" type="date" />
+                        </div>
+                        <div class="item item-birth">
+                            <p>Giới tính</p>
+                            <select fieldName="Gender" fieldValue="Gender" class="style-input style-select">
+                                <option value="1">Nam</option>
+                                <option value="0">Nữ</option>
+                                <option value="2">Khác</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="display-flex">
+                        <div class="item item-birth">
+                            <p>Số chứng minh thư nhân dân (<span style="color:red;">*</span>)</p>
+                            <input type="text" fieldName="IdentityNumber" class="style-input input-required" />
+                        </div>
+                        <div class="item item-birth">
+                            <p>Ngày cấp</p>
+                            <input fieldName="IdentityDate" class="style-input" type="date" />
+                        </div>
+                    </div>
+                    <div class="display-flex">
+                        <div class="item item-birth">
+                            <p>Nơi cấp</p>
+                            <input type="text" fieldName="IdentityPlace" class="style-input" />
+                        </div>
+                    </div>
+
+                    <div class="display-flex">
+                        <div class="item item-birth">
+                            <p>Email  (<span style="color:red;">*</span>)</p>
+                            <input type="email" fieldName="Email" class="style-input input-required" />
+                        </div>
+                        <div class="item item-birth">
+                            <p>Số điện thoại  (<span style="color:red;">*</span>)</p>
+                            <input type="text" fieldName="PhoneNumber" class="style-input input-required" />
+                        </div>
+                    </div>
+                    <div class="style-fontweight-bold">B. THÔNG TIN CÔNG VIỆC:<hr class="styleHr" /></div>
+                    <div class="display-flex">
+                        <div class="item item-birth">
+                            <p>Vị trí</p>
+                            <select fieldName="PossitionName" fieldValue="PossitionId" api="/api/v1/possitions" class="style-input style-select build-select"></select>
+                        </div>
+                        <div class="item item-birth">
+                            <p>Phòng ban</p>
+                            <select id="cbxDepartment" fieldName="DepartmentName" fieldValue="DepartmentId" api="/api/v1/departments" class="style-input style-select build-select"></select>
+                        </div>
+                    </div>
+                    <div class="display-flex">
+                        <div class="item item-birth">
+                            <p>Mã số thuế cá nhân</p>
+                            <input fieldName="PersonalTaxCode" class="style-input" />
+                        </div>
+                        <div class="item item-birth">
+                            <p>Mức lương cơ bản</p>
+                            <input type="text" fieldName="Salary" class="style-input" />
+                        </div>
+                    </div>
+                    <div class="display-flex">
+                        <div class="item item-birth">
+                            <p>Ngày gia nhập công ty</p>
+                            <input fieldName="JoinDate" class="style-input" type="date" />
+                        </div>
+                        <div class="item item-birth">
+                            <p>Tình trạng công việc</p>
+                            <select fieldName="WorkStatusName" fieldValue="WorkStatus" class="style-input style-select">
+                                <option value="0">Đã nghỉ việc</option>
+                                <option value="1">Đang làm việc</option>
+                                <option value="2">Đang thử việc</option>
+                                <option value="3">Đã nghỉ hưu</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+        </div>
+        <div class="btn-bottom-dialog btn-bottom">
+            <div class="btn-bottom-dialog btn-bottom">
+                <button id="btnSave" class="btn-bottom-save"><i class="far fa-save"></i><span class="btn-text">Lưu</span></button>
+                <button id="btnCancel" class="btn-bottom-cancel">Hủy</button>
+            </div>
+        </div>
+        <!--    Dialog thông báo xác nhận xoá-->
+        <div class="noti" id="dialog-confirm" title="Thông báo">
+            <div class="text-noti">
+                <i class="fas fa-exclamation-triangle icon-danger"></i>   Bạn có chắc chắn muốn xoá không?
+            </div>
+            <div class="btn-bottom">
+                <div class="group-footer-button">
+                    <button class="btn-bottom-cancel" id="btnCFCancel">Huỷ</button>
+                    <button class="btn-bottom-save" id="btnConfirm">Đồng ý</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Thông báo thành công-->
+    <div id="form-noti-success" class="form-success alert-noti">
+        <div class="noti-left">
+            <div class="border-icon success"><i class="fas fa-check"></i></div><span>Thành công</span>
+        </div>
+    </div>
+
+    <!--Thông báo thất bại-->
+    <div id="form-noti-failed" class="form-failed alert-noti">
+        <div class="noti-left"><div class="border-icon failed"><i class="fas fa-exclamation-triangle"></i></div><span>Thất bại</span></div>
+    </div>
+
+    <!-- Thông báo sửa thất bại-->
+    <!--Thông báo xóa thành công-->
+
+
+
+    <script src="/js/common/jquery-3.5.1.min.js"></script>
+    <script src="/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
+    <script src="/js/common/common.js"></script>
+    <script src="/js/common/base.js"></script>
+    <script src="/js/page/employee.js"></script>
+</body>
+</html>

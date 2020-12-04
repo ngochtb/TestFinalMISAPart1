@@ -1,0 +1,223 @@
+﻿/*
+    css dùng chung
+    createdby ngocchtb(13/11/2020)
+*/
+
+
+button, tr{
+   cursor:pointer;
+}
+
+.button-right {
+    display: flex;
+    justify-content: flex-end;
+}
+.button-ref {
+    height: 40px;
+    width: 40px;
+    border: none;
+    outline: none;
+    color: #000000;
+    border-radius: 4px;
+    margin-left: 16px;
+}
+    .button-ref:hover {
+        background-color: #E9EBEE;
+    }
+.button-del{
+    background-color: red;
+    color: white;
+}
+    .button-del:hover {
+        background-color: #f25c5c;
+    }
+    .text-align-center {
+        text-align: center;
+    }
+.button-right-bottom{
+    padding-top: 5px;
+}
+.btn-bottom-dialog {
+    width: 100%;
+    height: 60px;
+    background: #cccccc;
+}
+    .btn-bottom-dialog button {
+        float: right;
+        margin: 10px;
+    }
+    .choosetr {
+        background-color: #03c481;
+    }
+.text-align-right {
+    text-align: right !important;
+}
+.content {
+    width: 100%;
+}
+
+
+    .content .action {
+        width: calc(100% - 48px);
+        height: 48px;
+        margin: 24px auto;
+        display: flex;
+    }
+
+        .content .action > span {
+            font-size: 20px;
+            font-weight: bold;
+            width: 50%;
+        }
+
+        .content .action .button {
+            width: 50%;
+        }
+
+        .content .action .action-button {
+            padding: 0 16px;
+            height: 36px;
+            color: #01B075;
+            font-size: 13px;
+            border: 1px solid #bbbbbb;
+            border-radius: 4px;
+            line-height: 36px;
+            margin-right: 16px;
+            cursor: pointer;
+        }
+
+        .content .action .button-add button {
+            height: 40px;
+            color: #fff;
+            background-color: #01B075;
+            font-size: 13px;
+            border: 1px solid #bbbbbb;
+            line-height: 40px;
+            font-weight: normal;
+            padding: 0 16px;
+            border-radius: 4px;
+            border: none;
+            outline: none;
+        }
+            .content .action .button-add button:hover {
+                background-color: #008000;
+            }
+
+        .content .action .button-add > i {
+            padding-right: 8px;
+        }
+
+        .content .action .button-add .down-button {
+            border-left: 1px solid #bbbbbb;
+            padding: 0px 12px;
+        }
+
+    .content .search {
+        display: flex;
+        margin: auto;
+        width: calc(100% - 48px);
+        height: 40px;
+    }
+
+        .content .search .input-search {
+            position: relative;
+        }
+
+            .content .search .input-search input {
+                padding: 0px 16px 0px 28px;
+                width: 100%;
+                height: 40px;
+                font-size: 12px;
+            }
+
+            .content .search .input-search .fa-search {
+                position: absolute;
+                z-index: 100;
+                width: 10px;
+                font-size: 12px;
+                left: 16px;
+                right: 8px;
+                line-height: 42px;
+            }
+
+    .content .choose-department {
+        position: relative;
+        margin-left: 62px;
+    }
+
+        .content .choose-department input {
+            padding: 0px 16px;
+            height: 40px;
+            font-size: 12px;
+            width: 250px;
+        }
+
+        .content .choose-department .fa-chevron-down {
+            position: absolute;
+            z-index: 100;
+            font-size: 12px;
+            line-height: 42px;
+            top: 3px;
+            right: 10px;
+        }
+
+    .content .search .width-choose {
+        width: 200px;
+        margin-left: 16px;
+    }
+
+        .content .search .width-choose i {
+            right: -69px;
+        }
+
+    .content .search .button-action {
+        float: right;
+    }
+
+        .content .search .button-action .action-download {
+        }
+
+    .content .content-table {
+        width: calc(100% - 48px);
+        height:calc(100vh - 293px);
+        margin: 24px;
+        overflow-x: auto;
+        overflow-y: auto;
+    }
+
+        .content .content-table table tbody {
+            width: 100%;
+        }
+
+.content-table th {
+    width: auto;
+    text-align: left;
+}
+
+.content .content-table td {
+    text-align: left;
+    width: auto;
+    height: 48px;
+}
+    .content .content-table tr:hover {
+        background-color: #EFEFEF;
+    }
+
+    table th, td {
+        border-bottom: 1px solid #bbbbbb;
+        padding: 0px 16px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+        table th{
+            padding: 10px 16px;
+        }
+
+        .addDot {
+            display: inline-block;
+            width: 180px;
+            white-space: nowrap;
+            overflow: hidden !important;
+            text-overflow: ellipsis;
+        }

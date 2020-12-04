@@ -1,0 +1,16 @@
+version: '3'
+networks: 
+  nvmanh-network:
+    external: true
+services:
+  nvmanh-cukcuk:
+    image: nvmanh-cukcuk
+    container_name: nvmanh-cukcuk
+    restart: always
+    networks:
+      - nvmanh-network
+    ports:
+      - '8001:80'
+    build:
+      context: .
+      dockerfile: MISA.CukCuk.Web/Dockerfile
